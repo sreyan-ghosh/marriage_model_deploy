@@ -11,3 +11,5 @@
 ->Tech stack: HTML,CSS,JS,PHP,Flask,Python,Apache
 
 ->Provided ML model code in .ipynb file and dataset used in .csv file
+
+->To execute: Clone Repo in local system and run index.html
