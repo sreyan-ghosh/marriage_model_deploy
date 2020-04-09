@@ -1,6 +1,6 @@
-#End-to-end Marriage Age Predictor
+# End-to-end Marriage Age Predictor
 
-->Created ML model marriage_age_pred_model.ml
+->Created ML model marriage_age_pred_model.ml after choosing best model using GridSearchCV.
 
 ->Created Flask API app.py that communicates with saved model.
 
@@ -10,4 +10,4 @@
 
 ->Tech stack: HTML,CSS,JS,PHP,Flask,Python,Apache
 
-->Provided ML model code in .ipynb file.
+->Provided ML model code in .ipynb file and dataset used in .csv file
